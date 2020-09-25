@@ -1,0 +1,13 @@
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\bin\Debug\netcoreapp3.1\CampbellDeliverable2.exe
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\bin\Debug\netcoreapp3.1\CampbellDeliverable2.deps.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\bin\Debug\netcoreapp3.1\CampbellDeliverable2.runtimeconfig.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\bin\Debug\netcoreapp3.1\CampbellDeliverable2.runtimeconfig.dev.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\bin\Debug\netcoreapp3.1\CampbellDeliverable2.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\bin\Debug\netcoreapp3.1\CampbellDeliverable2.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\obj\Debug\netcoreapp3.1\CampbellDeliverable2.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\obj\Debug\netcoreapp3.1\CampbellDeliverable2.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\obj\Debug\netcoreapp3.1\CampbellDeliverable2.AssemblyInfo.cs
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\obj\Debug\netcoreapp3.1\CampbellDeliverable2.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\obj\Debug\netcoreapp3.1\CampbellDeliverable2.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\obj\Debug\netcoreapp3.1\CampbellDeliverable2.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellDeliverable2\CampbellDeliverable2\obj\Debug\netcoreapp3.1\CampbellDeliverable2.genruntimeconfig.cache

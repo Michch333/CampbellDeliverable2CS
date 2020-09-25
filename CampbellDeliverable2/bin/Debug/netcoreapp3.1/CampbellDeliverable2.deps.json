@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CampbellDeliverable2/1.0.0": {
+        "runtime": {
+          "CampbellDeliverable2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CampbellDeliverable2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
